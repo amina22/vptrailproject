@@ -1,0 +1,13 @@
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Interop.DexterLib.dll
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Amina Sohail\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
